@@ -1,3 +1,20 @@
 /*
  * Write your own styles in this file
  */
+p{
+    vertical-align: center;
+    horiz-align: right;
+    font-size: x-large;
+    font-family: "Copperplate Gothic Bold";
+}
+.col{
+    height: 2.5rem;
+}
+.row{
+    background-color: papayawhip;
+}
+img{
+    align-content: flex-start;
+    padding: 1%;
+    border-radius: 10%;
+}
